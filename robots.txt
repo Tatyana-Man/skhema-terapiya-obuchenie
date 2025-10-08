@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://skhema-terapiya-obuchenie.vercel.app/sitemap.xml
